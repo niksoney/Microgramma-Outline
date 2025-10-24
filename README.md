@@ -18,8 +18,8 @@ The research combines **morphometric**, **spectroscopic**, and **phylogenetic** 
 
 ## 📊 Data and Figures
 
-The **raw datasets**, **statistical outputs**, and **high-resolution figures** are currently under embargo.  
-All data and supplementary materials will be made publicly available **after the formal publication of the article**.
+The **raw datasets**, **statistical outputs**, and **high-resolution figures** generated in this study are currently under embargo.  
+Upon formal publication of the article, **all materials will be made publicly available through a OneDrive link**, which will be provided here once the embargo period ends.
 
 ---
 
