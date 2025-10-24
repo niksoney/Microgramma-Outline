@@ -49,4 +49,4 @@ Questions, suggestions, or interest in collaborations are very welcome!
 
 -   **Main Author:** Niksoney A. Mendonça
 -   **E-mail:** niksoneyazevedo2017@gmail.com
--   **Lab Website:** https://niksoney.github.io/bio/index.html#sobre
+-   **Website:** https://niksoney.github.io/bio/index.html#sobre
