@@ -12,7 +12,7 @@ The research combines **morphometric**, **spectroscopic**, and **phylogenetic** 
 
 - `/Scripts`: R scripts used for morphometric analysis, spectral processing, and phylogenetic modeling.   
 - `/Figures`: Includes only the figures and graphical outputs generated from the analyses described in the manuscript.
-- `/Data`: Contains only essential metadata. The complete raw and processed datasets will be hosted on OneDrive due to their large file size. 
+- `/Data`: The complete raw and processed datasets will be hosted on OneDrive due to their large file size. 
 
 ---
 
