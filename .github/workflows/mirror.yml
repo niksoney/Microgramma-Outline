@@ -1,1 +1,21 @@
+name: Mirror to labevofern
+
+on:
+  push:
+    branches:
+      - main  # ou o nome do seu branch principal
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Push to mirror repo
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git remote add mirror https://labevofern:${{ secrets.MIRROR_TOKEN }}@github.com/labevofern/Microgramma-Outline.git
+          git push mirror main --force
 
